@@ -1,3 +1,7 @@
+---
+layout: default
+---
+   
    ## Project description
    
    ## Group K members
